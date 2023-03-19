@@ -7,7 +7,7 @@
 
 ## 📫 Contact Me
 
-You can reach me at [le_u1@denison.edu]. I'm also on [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uyenle02/) if you'd like to connect with me.
+You can reach me at [le_u1@denison.edu]. I'm also on [![Linkedin Badge](https://img.shields.io/badge/-uyenle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uyenle02/) if you'd like to connect with me.
 
 Thanks for stopping by!
 
