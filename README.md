@@ -1,8 +1,8 @@
-### Hi, this is Uyen Le! 👋
+### Hi, this is Uyen Le 👋
 
 I am a junior pursuing a double major in Mathematics and Computer Science at Denison University :woman_technologist:. 
 
-It was during my studies at Denison that I developed an interest in programming and discovered my passion for Data Science and Enterprise Architecture. I am dedicated to using my skills to tackle complex problems and create impactful solutions.
+It was during my studies at Denison that I developed an interest in programming and discovered my passion for Data Science and Enterprise Architecture. I am dedicated to using my skills to tackle complex problems and create impactful solutions :cupid:.
 
 ### 🚀 Skills
 
