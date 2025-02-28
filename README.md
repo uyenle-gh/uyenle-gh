@@ -1,8 +1,6 @@
 ### Hi, this is Uyen Le 👋
 
-I am a junior pursuing a double major in Mathematics and Computer Science at Denison University :woman_technologist:. 
-
-It was during my studies at Denison that I developed an interest in programming and discovered my passion for Data Science and Enterprise Architecture. I am dedicated to using my skills to tackle complex problems and create impactful solutions :cupid:.
+I am a first-year PhD student in the Computer Science department at Stony Brook University :woman_technologist:. 
 
 ### 🚀 Skills
 
@@ -24,7 +22,7 @@ It was during my studies at Denison that I developed an interest in programming 
 
 ### 📫 Contact Me
 
-You can reach me at [le_u1@denison.edu](mailto:le_u1@denison.edu). I'm also on [![Linkedin Badge](https://img.shields.io/badge/-UyenLe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uyenle02/) if you'd like to connect.
+You can reach me at [uyen.le@stonybrook.edu](mailto:uyen.le@stonybrook.edu). I'm also on [![Linkedin Badge](https://img.shields.io/badge/-UyenLe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uyenle02/) if you'd like to connect.
 
 Thanks for stopping by!
 
